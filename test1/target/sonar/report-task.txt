@@ -1,0 +1,6 @@
+projectKey=test.java.project:test1
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/test.java.project:test1
+ceTaskId=AWO3ZDBKh9p3AY5436SJ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWO3ZDBKh9p3AY5436SJ
